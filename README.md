@@ -5,3 +5,33 @@
 
 # Arduino-Pro-Mini-based-Conveyor-Motor-Speed-Control-System-using-PWM-Method
 <strong>Solo Project: Conveyor Motor Speed Control System using PWM Method</strong><br><br>
+
+<br><br>
+
+## Project Requirements
+| Part | Description |
+| --- | --- |
+| Development Board | Arduino Pro Mini |
+| Code Editor | Arduino IDE |
+| Driver | USB-Serial PL2303 |
+| Programming Language | C/C++ |
+| Actuators | Gear Motor / Motor DC (x1) |
+| Other Components | PL2303 USB to Serial (x1), Jumper cable (1 set), KCD11: Rocker Switch SPST (x1), Li-ion battery 18650 (x2), 2-Slot series battery holder (x1), Motor driver L298N (x1), and Encoder Disk (x1) |
+
+<br><br>
+
+## Download & Install
+1. Arduino IDE
+
+   ```
+   https://www.arduino.cc/en/software
+   ```
+<br>
+
+2. USB-Serial PL2303
+
+   ```
+   https://bit.ly/PL2303_Driver
+   ```
+   
+<br><br>

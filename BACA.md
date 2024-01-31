@@ -4,7 +4,7 @@
 ![Project](https://img.shields.io/badge/Project-Arduino-light.svg?style=flat&logo=arduino&logoColor=white&color=%23F7DF1E)
 
 # Arduino-Pro-Mini-based-Conveyor-Motor-Speed-Control-System-using-PWM-Method
-<strong>Proyek Solo: Sistem Kontrol Kecepatan Motor Konveyor menggunakan Metode PWM</strong><br><br>
+<strong>Proyek Tunggal: Sistem Kontrol Kecepatan Motor Konveyor menggunakan Metode PWM</strong><br><br>
 
 <br><br>
 

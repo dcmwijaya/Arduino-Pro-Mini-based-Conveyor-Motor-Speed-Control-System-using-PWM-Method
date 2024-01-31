@@ -68,16 +68,16 @@ Konveyor adalah sebuah sistem mekanik yang digunakan untuk memindahkan barang at
 3. ``` Ubah Processor ``` in Arduino IDE.<br><br>
    • Cara: klik ``` Tools ``` -> ``` Processor ``` -> ``` ATmega328P (5V, 16 MHz) ```.<br><br>
 
-5. ``` Pengaturan Port ``` di Arduino IDE<br><br>
+4. ``` Pengaturan Port ``` di Arduino IDE<br><br>
    • Cara: klik ``` Port ``` -> Pilih sesuai dengan port perangkat Anda ``` (Anda dapat melihatnya di Device Manager) ```.<br><br>
 
-6. Sebelum mengunggah program, silakan klik: ``` Verify ```.<br><br>
+5. Sebelum mengunggah program, silakan klik: ``` Verify ```.<br><br>
 
-7. Jika tidak ada kesalahan dalam kode program, silakan klik: ``` Upload ```.<br><br>
+6. Jika tidak ada kesalahan dalam kode program, silakan klik: ``` Upload ```.<br><br>
 
-8. Bila dalam proses tersebut anda menemukan tulisan ``` Uploading ```, maka anda harus segera menekan tombol ``` Reset ``` pada board yang digunakan, hal ini agar program berhasil diunggah. Kemudian jika ternyata masih ada kendala, maka coba cek lagi di bagian ``` driver ``` / ``` port ``` / ``` bagian lainnya ```.
+7. Jika dalam proses tersebut Anda menemukan tulisan ``` Uploading ```, maka Anda harus segera menekan tombol ``` Reset ``` pada board yang digunakan, hal ini bertujuan agar program berhasil diupload. Kemudian jika ternyata masih ada masalah, maka coba cek ``` driver ``` / ``` port ``` / ``` bagian lainnya ```.
    
-9. Selamat menikmati [Selesai].
+8. Selamat menikmati [Selesai].
 
 <br><br>
 

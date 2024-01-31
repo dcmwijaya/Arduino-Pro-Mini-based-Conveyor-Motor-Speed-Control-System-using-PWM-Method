@@ -14,7 +14,7 @@ Konveyor adalah sebuah sistem mekanik yang digunakan untuk memindahkan barang at
 | --- | --- |
 | Papan Pengembangan | Arduino Pro Mini |
 | Editor Kode | Arduino IDE |
-| Bootloader | USB-Serial PL2303 (x1) |
+| Bootloader | USB-Serial PL2303 |
 | Bahasa Pemrograman | C/C++ |
 | Aktuator | Gear Motor / Motor DC (x1) |
 | Komponen Lainnya| USB-Serial TTL: PL2303 (x1), Kabel jumper (1 set), KCD11: Saklar Pengayun SPST (x1), Baterai Li-ion 18650 (x2), Tempat baterai seri 2 slot (x1), Motor driver L298N (x1), and Piringan Encoder (x1) |

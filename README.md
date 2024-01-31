@@ -78,6 +78,11 @@
 
 <br><br>
 
+## Use of USB-Serial TTL: PL2303
+Coming Soon....
+
+<br><br>
+
 ## Get Started
 1. Download and extract this repository.<br><br>
    

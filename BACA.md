@@ -74,8 +74,10 @@ Konveyor adalah sebuah sistem mekanik yang digunakan untuk memindahkan barang at
 6. Sebelum mengunggah program, silakan klik: ``` Verify ```.<br><br>
 
 7. Jika tidak ada kesalahan dalam kode program, silakan klik: ``` Upload ```.<br><br>
+
+8. Bila dalam proses tersebut anda menemukan tulisan ``` Uploading ```, maka anda harus segera menekan tombol ``` Reset ``` pada board yang digunakan, hal ini agar program berhasil diunggah. Kemudian jika ternyata masih ada kendala, maka coba cek lagi di bagian ``` driver ``` / ``` port ``` / ``` bagian lainnya ```.
    
-8. Selamat menikmati [Selesai].
+9. Selamat menikmati [Selesai].
 
 <br><br>
 

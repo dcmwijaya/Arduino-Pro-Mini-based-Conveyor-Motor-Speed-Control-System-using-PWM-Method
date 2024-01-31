@@ -78,6 +78,11 @@
 
 <br><br>
 
+## Penggunaan USB-Serial TTL: PL2303
+Segera Hadir....
+
+<br><br>
+
 ## Memulai
 1. Unduh dan ekstrak repositori ini.<br><br>
    

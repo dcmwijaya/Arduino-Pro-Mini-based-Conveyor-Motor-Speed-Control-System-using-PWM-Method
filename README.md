@@ -75,7 +75,15 @@ A conveyor is a mechanical system used to move goods or materials from one place
 
 6. If there is no error in the program code, then please click: ``` Upload ```.<br><br>
 
-7. When you find the writing ``` Uploading ``` the first time in the ``` Arduino IDE ```, then you must immediately press the ``` RESET ``` button on the board used, this aims to successfully upload the program. Then if there are still problems, then try checking the ``` driver ``` / ``` port ``` / ``` other ``` section.
+7. Some things you need to do when using the ``` Arduino Pro Mini board ``` :
+
+    • ``` Arduino IDE ``` information: ``` Uploading... ``` -> immediately press and hold the ``` RESET ``` button.
+
+    • ``` Arduino IDE ``` information: ``` Percentage (%) ``` -> release the ``` RESET ``` button.
+
+    • Wait until the message appears: ```Done Uploading ``` -> ```The program is directly operated ```.
+
+8. If there is still a problem when uploading the program, then try to check the ``` driver ``` / ``` port ``` / ``` others ``` section.
 
 <br><br>
 

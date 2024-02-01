@@ -5,7 +5,7 @@
 
 # Arduino-Pro-Mini-based-Conveyor-Motor-Speed-Control-System-using-PWM-Method
 <strong>Proyek Tunggal: Sistem Kontrol Kecepatan Motor Konveyor menggunakan Metode PWM</strong><br><br>
-Konveyor adalah sebuah sistem mekanik yang digunakan untuk memindahkan barang atau material dari satu tempat ke tempat lain yang dilakukan secara terus menerus. Untuk mengatur seberapa cepat mesin konveyor dapat bergerak, anda dapat menggunakan potensiometer.
+Konveyor adalah sebuah sistem mekanik yang digunakan untuk memindahkan barang atau material dari satu tempat ke tempat lain yang dilakukan secara terus menerus. Untuk mengatur seberapa cepat mesin konveyor dapat bergerak, anda dapat menggunakan potensiometer. Sedangkan untuk menyesuaikan arah pergerakan motor (maju atau mundur), anda dapat memencet tombol tekan.
 
 <br><br>
 
@@ -65,7 +65,7 @@ Konveyor adalah sebuah sistem mekanik yang digunakan untuk memindahkan barang at
 2. ``` Pengaturan Board ``` di Arduino IDE<br><br>
    • Cara: klik ``` Tools ``` -> ``` Board ``` -> ``` Arduino AVR Boards ``` -> ``` Arduino Pro or Pro Mini ```.<br><br>
 
-3. ``` Ubah Processor ``` in Arduino IDE.<br><br>
+3. ``` Ubah Processor ``` di Arduino IDE.<br><br>
    • Cara: klik ``` Tools ``` -> ``` Processor ``` -> ``` ATmega328P (5V, 16 MHz) ```.<br><br>
 
 4. ``` Pengaturan Port ``` di Arduino IDE<br><br>

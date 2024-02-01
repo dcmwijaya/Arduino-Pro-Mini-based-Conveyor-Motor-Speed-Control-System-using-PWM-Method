@@ -81,7 +81,7 @@ A conveyor is a mechanical system used to move goods or materials from one place
 
     • ``` Arduino IDE ``` information: ``` Percentage (%) ``` -> release the ``` RESET ``` button.
 
-    • Wait until the message appears: ```Done Uploading ``` -> ```The program is directly operated ```.
+    • Wait until the message appears: ```Done Uploading ``` -> ```The program is directly operated ```.<br><br>
 
 8. If there is still a problem when uploading the program, then try to check the ``` driver ``` / ``` port ``` / ``` others ``` section.
 

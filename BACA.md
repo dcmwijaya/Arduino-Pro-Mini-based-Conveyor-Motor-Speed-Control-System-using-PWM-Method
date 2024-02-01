@@ -75,7 +75,7 @@ Konveyor adalah sebuah sistem mekanik yang digunakan untuk memindahkan barang at
 
 6. Jika tidak ada kesalahan dalam kode program, silakan klik: ``` Upload ```.<br><br>
 
-7. Ketika anda mendapati tulisan ``` Uploading ``` pertama kali di ``` Arduino IDE ```, maka anda harus segera menekan tombol ``` Reset ``` pada board yang digunakan, hal ini bertujuan agar program berhasil diupload. Kemudian jika ternyata masih ada masalah, maka coba cek bagian ``` driver ``` / ``` port ``` / ``` lainnya ```.<br><br>
+7. Ketika anda mendapati tulisan ``` Uploading ``` pertama kali di ``` Arduino IDE ```, maka anda harus segera menekan tombol ``` RESET ``` pada board yang digunakan, hal ini bertujuan agar program berhasil diupload. Kemudian jika ternyata masih ada masalah, maka coba cek bagian ``` driver ``` / ``` port ``` / ``` lainnya ```.<br><br>
    
 8. Selamat menikmati [Selesai].
 

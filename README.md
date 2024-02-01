@@ -75,7 +75,7 @@ A conveyor is a mechanical system used to move goods or materials from one place
 
 6. If there is no error in the program code, then please click: ``` Upload ```.<br><br>
 
-7. If in the process you find the words ``` Uploading ```, then you must immediately press the ``` Reset ``` button on the board used, this aims to successfully upload the program. Then if it turns out that there are still problems, then try checking the ``` driver ``` / ``` port ``` / ``` other parts ```.
+7. When you find the writing ``` Uploading ``` the first time in the ``` Arduino IDE ```, then you must immediately press the ``` Reset ``` button on the board used, this aims to successfully upload the program. Then if there are still problems, then try checking the ``` driver ``` / ``` port ``` / ``` other ``` section.<br><br>
    
 8. Please enjoy [Done].
 

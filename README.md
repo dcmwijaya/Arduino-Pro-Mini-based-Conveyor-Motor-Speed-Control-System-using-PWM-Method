@@ -88,7 +88,13 @@ A conveyor is a mechanical system used to move goods or materials from one place
 <br><br>
 
 ## Use of USB-Serial TTL: PL2303
-<img src="https://github.com/devancakra/Arduino-Pro-Mini-based-Conveyor-Motor-Speed-Control-System-using-PWM-Method/assets/54527592/9f4c81b0-8b88-462e-b384-4f1628d624c7" alt="usb-pl2303">
+<img src="https://github.com/devancakra/Arduino-Pro-Mini-based-Conveyor-Motor-Speed-Control-System-using-PWM-Method/assets/54527592/9f4c81b0-8b88-462e-b384-4f1628d624c7" alt="usb-pl2303"><br><br>
+
+Notes:
+
+   • This ``` Arduino Pro Mini ``` is not equipped with a ``` USB port ```, so you need an additional device in the form of a ``` USB to TTL Serial ``` to connect to a laptop or PC. USB to TTL Serial like the PL2303 USB is commonly used as an intermediate medium for uploading programs.
+   
+   • You can see the wiring between the ``` USB PL2303 ``` and the ``` Arduino Pro Mini ``` board in the picture above.
 
 <br><br>
 

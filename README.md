@@ -92,7 +92,7 @@ A conveyor is a mechanical system used to move goods or materials from one place
 
 Notes:
 
-   • This ``` Arduino Pro Mini ``` is not equipped with a ``` USB port ```, so you need an additional device in the form of a ``` USB to TTL Serial ``` to connect to a laptop or PC. USB to TTL Serial like the PL2303 USB is commonly used as an intermediate medium for uploading programs.
+   • This ``` Arduino Pro Mini ``` is not equipped with a ``` USB port ```, so you need an additional device in the form of a ``` USB to TTL Serial ``` to connect to a laptop or PC. ``` USB to TTL Serial ``` like the ``` PL2303 USB ``` is commonly used as an intermediate medium for uploading programs.
    
    • You can see the wiring between the ``` USB PL2303 ``` and the ``` Arduino Pro Mini ``` board in the picture above.
 

@@ -1,9 +1,9 @@
 // global variable initialization
-#define PB1_PIN 2 // PD2 pin to push button 1
-#define ENA_PIN 3 // PD3 pin to enable motor A
-#define PB2_PIN 4 // PD4 pin to push button 2
-#define IN1_PIN 5 // PD5 pin to rotate the motor backward
-#define IN2_PIN 6 // PD6 pin to rotate the motor forward
+#define PB1_PIN PD2 // PD2 pin to push button 1
+#define ENA_PIN PD3 // PD3 pin to enable motor A
+#define PB2_PIN PD4 // PD4 pin to push button 2
+#define IN1_PIN PD5 // PD5 pin to rotate the motor backward
+#define IN2_PIN PD6 // PD6 pin to rotate the motor forward
 
 boolean state1 = false, state2 = false; // initialize the status of digital readings on push buttons 1 and 2 into boolean data type
 

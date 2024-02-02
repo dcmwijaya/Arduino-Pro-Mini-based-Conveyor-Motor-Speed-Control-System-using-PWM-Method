@@ -88,7 +88,7 @@ Konveyor adalah sebuah sistem mekanik yang digunakan untuk memindahkan barang at
 <br><br>
 
 ## Penggunaan USB-Serial TTL: PL2303
-<img src="https://github.com/devancakra/Arduino-Pro-Mini-based-Conveyor-Motor-Speed-Control-System-using-PWM-Method/assets/54527592/9f4c81b0-8b88-462e-b384-4f1628d624c7" alt="usb-pl2303"><br><br>
+<img src="https://github.com/devancakra/Arduino-Pro-Mini-based-Conveyor-Motor-Speed-Control-System-using-PWM-Method/assets/54527592/cb033083-004b-4ee4-afb1-3dbc1590fc3f"><br><br>
 
 <strong>Catatan :</strong>
 

@@ -4,7 +4,7 @@
 #define PB2_PIN PD4 // PD4 pin to push button 2
 #define IN1_PIN PD5 // PD5 pin to rotate the motor backward
 #define IN2_PIN PD6 // PD6 pin to rotate the motor forward
-#define PTM_PIN PD7 // PD7 pin to potentiometer
+#define PTM_PIN PC0 // PC0 pin to potentiometer
 
 boolean state1 = false, state2 = false; // initialize the status of digital readings on push buttons 1 and 2 into boolean data type
 int pot = 0; // initialize the analog reading on potentiometer into integer data type

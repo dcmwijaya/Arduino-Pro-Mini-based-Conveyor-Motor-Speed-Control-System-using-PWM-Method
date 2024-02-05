@@ -14,10 +14,11 @@ Konveyor adalah sebuah sistem mekanik yang digunakan untuk memindahkan barang at
 | --- | --- |
 | Papan Pengembangan | Arduino Pro Mini |
 | Editor Kode | Arduino IDE |
+| Alat Pemrogram | PL2303 |
 | Driver | USB-Serial PL2303 |
 | Bahasa Pemrograman | C/C++ |
 | Aktuator | Gear Motor / Motor DC (x1) |
-| Komponen Lainnya| USB-Serial TTL: PL2303 (x1), Kabel jumper (1 set), KCD11: Saklar Pengayun SPST (x1), Baterai Li-ion 18650 (x2), Tempat baterai seri 2 slot (x1), Motor driver L298N (x1), Breadboard (x1), Potensiometer (x1), dan Push button 4-pin (x2) |
+| Komponen Lainnya| Kabel jumper (1 set), KCD11: Saklar Pengayun SPST (x1), Baterai Li-ion 18650 (x2), Tempat baterai seri 2 slot (x1), Motor driver L298N (x1), Breadboard (x1), Potensiometer (x1), dan Push button 4-pin (x2) |
 
 <br><br>
 
@@ -87,7 +88,7 @@ Konveyor adalah sebuah sistem mekanik yang digunakan untuk memindahkan barang at
 
 <br><br>
 
-## Penggunaan USB-Serial TTL: PL2303
+## Pengaturan Alat Pemrogram: PL2303
 <img src="https://github.com/devancakra/Arduino-Pro-Mini-based-Conveyor-Motor-Speed-Control-System-using-PWM-Method/assets/54527592/cb033083-004b-4ee4-afb1-3dbc1590fc3f"><br><br>
 
 <strong>Catatan :</strong>

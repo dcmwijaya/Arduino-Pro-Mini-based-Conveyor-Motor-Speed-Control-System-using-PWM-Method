@@ -14,10 +14,11 @@ Conveyor is a mechanical system used to move goods or materials from one place t
 | --- | --- |
 | Development Board | Arduino Pro Mini |
 | Code Editor | Arduino IDE |
+| Programmer Tools | PL2303 |
 | Driver | USB-Serial PL2303 |
 | Programming Language | C/C++ |
 | Actuators | Gear Motor / Motor DC (x1) |
-| Other Components | USB-Serial TTL: PL2303 (x1), Jumper cable (1 set), KCD11: Rocker Switch SPST (x1), Li-ion battery 18650 (x2), 2-Slot series battery holder (x1), Motor driver L298N (x1), Breadboard (x1), Potentiometer (x1), and Push button 4-pin (x2) |
+| Other Components | Jumper cable (1 set), KCD11: Rocker Switch SPST (x1), Li-ion battery 18650 (x2), 2-Slot series battery holder (x1), Motor driver L298N (x1), Breadboard (x1), Potentiometer (x1), and Push button 4-pin (x2) |
 
 <br><br>
 
@@ -87,14 +88,14 @@ Conveyor is a mechanical system used to move goods or materials from one place t
 
 <br><br>
 
-## Use of USB-Serial TTL: PL2303
+## Programmer Tools Setup: PL2303
 <img src="https://github.com/devancakra/Arduino-Pro-Mini-based-Conveyor-Motor-Speed-Control-System-using-PWM-Method/assets/54527592/cb033083-004b-4ee4-afb1-3dbc1590fc3f"><br><br>
 
 <strong>Notes:</strong>
 
    • This ``` Arduino Pro Mini ``` is not equipped with a ``` USB port ```, so you need an additional device in the form of a ``` USB to TTL Serial ``` to connect to a laptop or PC. ``` USB to TTL Serial ``` like the ``` PL2303 USB ``` is commonly used as an intermediate medium for uploading programs.
    
-   • You can see the wiring between the ``` USB PL2303 ``` and the ``` Arduino Pro Mini ``` board in the picture above.
+   • You can see the wiring between the ``` PL2303 USB ``` and the ``` Arduino Pro Mini ``` board in the picture above.
 
 <br><br>
 

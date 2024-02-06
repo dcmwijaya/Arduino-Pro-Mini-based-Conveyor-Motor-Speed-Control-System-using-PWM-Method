@@ -97,6 +97,8 @@ Conveyor is a mechanical system used to move goods or materials from one place t
    
    • You can see the wiring between the ``` PL2303 USB ``` and the ``` Arduino Pro Mini ``` board in the picture above.
 
+   • To upload the program, besides using the ``` PL2303 USB ```, you can also use other programming tools such as: ``` FTDI FT232RL ```.
+
 <br><br>
 
 ## Get Started

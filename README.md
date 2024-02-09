@@ -78,9 +78,7 @@ Conveyor is a mechanical system used to move goods or materials from one place t
 
 7. Some things you need to do when using the ``` Arduino Pro Mini board ``` :
 
-    • ``` Arduino IDE ``` information: ``` Uploading... ``` -> immediately press and hold the ``` RESET ``` button.
-
-    • ``` Arduino IDE ``` information: ``` Writing at .... (%) ``` -> release the ``` RESET ``` button.
+    • ``` Arduino IDE ``` information: ``` Uploading... ``` -> immediately press the ``` RESET ``` button and release it.
 
     • Wait until the message appears: ```Done Uploading ``` -> ```The program is directly operated ```.<br><br>
 

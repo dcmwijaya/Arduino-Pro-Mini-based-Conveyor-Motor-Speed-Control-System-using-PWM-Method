@@ -97,7 +97,7 @@ Konveyor adalah sebuah sistem mekanik yang digunakan untuk memindahkan barang at
    
    • Pemasangan kabel antara ``` USB PL2303 ``` dengan board ``` Arduino Pro Mini ``` dapat anda lihat selengkapnya pada gambar di atas.
    
-   • Untuk mengunggah program, selain menggunakan ``` USB PL2303 ```, anda juga dapat menggunakan alat pemrogram lainnya seperti: ``` FTDI FT232RL ```.
+   • Untuk mengunggah program, selain menggunakan ``` USB PL2303 ```, anda juga dapat menggunakan alat pemrogram lainnya seperti: ``` FTDI FT232RL ```. Berdasarkan pengalaman, saya akui bahwa menggunakan ``` FTDI FT232RL ``` jauh lebih baik daripada ``` USB PL2303 ``` karena proses upload dapat dilakukan secara otomatis tanpa harus menekan tombol ``` RESET ```.
 
 <br><br>
 

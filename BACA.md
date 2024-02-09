@@ -78,9 +78,7 @@ Konveyor adalah sebuah sistem mekanik yang digunakan untuk memindahkan barang at
 
 7. Beberapa hal yang perlu anda lakukan saat menggunakan ``` board Arduino Pro Mini ```:
 
-    • Informasi ``` Arduino IDE ```: ``` Uploading... ``` -> segera tekan dan tahan tombol ``` RESET ```.
-
-    • Informasi ``` Arduino IDE ```: ``` Persentase (%) ``` -> lepaskan tombol ``` RESET ```.
+    • Informasi ``` Arduino IDE ```: ``` Uploading... ``` -> segera tekan tombol ``` RESET ``` dan lepaskan.
 
     • Tunggu sampai muncul pesan: ``` Done Uploading ``` -> ``` Program langsung dioperasikan ```.<br><br>
 

@@ -123,13 +123,15 @@ Conveyor is a mechanical system used to move goods or materials from one place t
 
 <strong>Notes:</strong>
 
+   <table><tr><td min-width="840">
+
    • This ``` Arduino Pro Mini ``` is not equipped with a ``` USB port ```, so you need an additional device in the form of a ``` USB to TTL Serial ``` to connect to a laptop or PC. ``` USB to TTL Serial ``` like the ``` PL2303 USB ``` is commonly used as an intermediate medium for uploading programs.
    
    • You can see the wiring between the ``` PL2303 USB ``` and the ``` Arduino Pro Mini ``` board in the picture above.
 
    • To upload the program, besides using the ``` PL2303 USB ```, you can also use other programming tools such as: ``` FTDI FT232RL ```. Based on experience, I admit that using the ``` FTDI FT232RL ``` is much better than the ``` PL2303 USB ``` because the upload process can be done automatically without the need to press the ``` RESET ``` button.
 
-<br><br>
+   </td></tr></table><br>
 
 ## Get Started
 1. Download and extract this repository.<br><br>

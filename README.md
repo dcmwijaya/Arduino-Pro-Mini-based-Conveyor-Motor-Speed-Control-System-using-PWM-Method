@@ -23,18 +23,25 @@ Conveyor is a mechanical system used to move goods or materials from one place t
 <br><br>
 
 ## Download & Install
-1. Arduino IDE
+1. Arduino IDE 
+
+   <table><tr><td width="810">
 
    ```
    https://www.arduino.cc/en/software
    ```
-<br>
 
-2. USB-Serial PL2303
+   </td></tr></table><br>
 
+2. USB-Serial PL2303 
+
+   <table><tr><td width="810">
+   
    ```
    https://bit.ly/PL2303_Driver
    ```
+
+   </td></tr></table>
    
 <br><br>
 

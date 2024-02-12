@@ -63,7 +63,7 @@ Conveyor is a mechanical system used to move goods or materials from one place t
 ## Arduino IDE Setup
 1. Open the ``` Arduino IDE ``` first, then open this project by clicking ``` File ``` -> ``` Open ``` : 
 
-   <table><tr><td width="840">
+   <table><tr><td width="810">
    
       ``` pwm_conveyor.ino ```
 
@@ -72,7 +72,7 @@ Conveyor is a mechanical system used to move goods or materials from one place t
 2. ``` Board Setup ``` in Arduino IDE
 
    <table>
-      <tr><th width="840">
+      <tr><th width="810">
 
       How to setup the ``` Arduino Pro Mini ``` board
             
@@ -86,7 +86,7 @@ Conveyor is a mechanical system used to move goods or materials from one place t
 
 3. ``` Change Processor ``` in Arduino IDE
 
-   <table><tr><td width="840">
+   <table><tr><td width="810">
       
       Click ``` Tools ``` -> ``` Processor ``` -> ``` ATmega328P (5V, 16 MHz) ```
 
@@ -94,7 +94,7 @@ Conveyor is a mechanical system used to move goods or materials from one place t
 
 4. ``` Port Setup ``` in Arduino IDE
 
-   <table><tr><td width="840">
+   <table><tr><td width="810">
       
       Click ``` Port ``` -> Choose according to your device port ``` (you can see in device manager) ```
 
@@ -106,7 +106,7 @@ Conveyor is a mechanical system used to move goods or materials from one place t
 
 7. Some things you need to do when using the ``` Arduino Pro Mini board ``` with ``` PL2303 USB ``` :
 
-   <table><tr><td width="840">
+   <table><tr><td width="810">
 
       • ``` Arduino IDE ``` information: ``` Uploading... ``` -> immediately press the ``` RESET ``` button and release it.
       
@@ -119,7 +119,7 @@ Conveyor is a mechanical system used to move goods or materials from one place t
 <br><br>
 
 ## Programmer Tools Setup: PL2303
-<img src="https://github.com/devancakra/Arduino-Pro-Mini-based-Conveyor-Motor-Speed-Control-System-using-PWM-Method/assets/54527592/cb033083-004b-4ee4-afb1-3dbc1590fc3f"><br><br>
+<img width="840" src="https://github.com/devancakra/Arduino-Pro-Mini-based-Conveyor-Motor-Speed-Control-System-using-PWM-Method/assets/54527592/cb033083-004b-4ee4-afb1-3dbc1590fc3f"><br><br>
 
 <strong>Notes:</strong>
 

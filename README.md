@@ -61,16 +61,37 @@ Conveyor is a mechanical system used to move goods or materials from one place t
 <br><br>
 
 ## Arduino IDE Setup
-1. Open the ``` Arduino IDE ``` first, then open this project by clicking: ``` File ``` -> ``` Open ``` -> ``` pwm_conveyor.ino ```.<br><br>
+1. Open the ``` Arduino IDE ``` first, then open this project by clicking ``` File ``` -> ``` Open ``` : 
+
+   <table><tr><td width="840">
    
-2. ``` Board Setup ``` in Arduino IDE<br><br>
-   • Method: click ``` Tools ``` -> ``` Board ``` -> ``` Arduino AVR Boards ``` -> ``` Arduino Pro or Pro Mini ```.<br><br>
+      ``` pwm_conveyor.ino ```
 
-3. ``` Change Processor ``` in Arduino IDE.<br><br>
-   • Method: click ``` Tools ``` -> ``` Processor ``` -> ``` ATmega328P (5V, 16 MHz) ```.<br><br>
+   </td></tr></table><br>
+   
+2. ``` Board Setup ``` in Arduino IDE
 
-4. ``` Port Setup ``` in Arduino IDE<br><br>
-   • Method: click ``` Port ``` -> Choose according to your device port ``` (you can see in device manager) ```.<br><br>
+   <table><tr><td width="840">
+      
+      Click ``` Tools ``` -> ``` Board ``` -> ``` Arduino AVR Boards ``` -> ``` Arduino Pro or Pro Mini ```
+
+   </td></tr></table><br>
+
+3. ``` Change Processor ``` in Arduino IDE
+
+   <table><tr><td width="840">
+      
+      Click ``` Tools ``` -> ``` Processor ``` -> ``` ATmega328P (5V, 16 MHz) ```
+
+   </td></tr></table><br>
+
+4. ``` Port Setup ``` in Arduino IDE
+
+   <table><tr><td width="840">
+      
+      Click ``` Port ``` -> Choose according to your device port ``` (you can see in device manager) ```
+
+   </td></tr></table><br>
 
 5. Before uploading the program please click: ``` Verify ```.<br><br>
 
@@ -78,9 +99,13 @@ Conveyor is a mechanical system used to move goods or materials from one place t
 
 7. Some things you need to do when using the ``` Arduino Pro Mini board ``` :
 
-    • ``` Arduino IDE ``` information: ``` Uploading... ``` -> immediately press the ``` RESET ``` button and release it.
+   <table><tr><td width="840">
 
-    • Wait until the message appears: ```Done Uploading ``` -> ```The program is directly operated ```.<br><br>
+      • ``` Arduino IDE ``` information: ``` Uploading... ``` -> immediately press the ``` RESET ``` button and release it.
+      
+      • Wait until the message appears: ```Done Uploading ``` -> ```The program is directly operated ```.
+
+   </td></tr></table><br>
 
 8. If there is still a problem when uploading the program, then try to check the ``` driver ``` / ``` port ``` / ``` others ``` section.
 

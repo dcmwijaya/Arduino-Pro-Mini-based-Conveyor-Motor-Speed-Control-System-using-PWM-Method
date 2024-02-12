@@ -71,11 +71,18 @@ Conveyor is a mechanical system used to move goods or materials from one place t
    
 2. ``` Board Setup ``` in Arduino IDE
 
-   <table><tr><td width="840">
+   <table>
+      <tr><th width="840">
+
+      How to setup the ``` Arduino Pro Mini ``` board
+            
+      </th></tr>
+      <tr><td>
       
       Click ``` Tools ``` -> ``` Board ``` -> ``` Arduino AVR Boards ``` -> ``` Arduino Pro or Pro Mini ```
 
-   </td></tr></table><br>
+      </td></tr>
+   </table><br>
 
 3. ``` Change Processor ``` in Arduino IDE
 
@@ -97,7 +104,7 @@ Conveyor is a mechanical system used to move goods or materials from one place t
 
 6. If there is no error in the program code, then please click: ``` Upload ```.<br><br>
 
-7. Some things you need to do when using the ``` Arduino Pro Mini board ``` :
+7. Some things you need to do when using the ``` Arduino Pro Mini board ``` with ``` PL2303 USB ``` :
 
    <table><tr><td width="840">
 

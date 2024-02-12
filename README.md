@@ -63,7 +63,7 @@ Conveyor is a mechanical system used to move goods or materials from one place t
 ## Arduino IDE Setup
 1. Open the ``` Arduino IDE ``` first, then open this project by clicking ``` File ``` -> ``` Open ``` : 
 
-   <table><tr><td style="min-width:840px;">
+   <table><tr><td width="840">
    
       ``` pwm_conveyor.ino ```
 
@@ -72,7 +72,7 @@ Conveyor is a mechanical system used to move goods or materials from one place t
 2. ``` Board Setup ``` in Arduino IDE
 
    <table>
-      <tr><th style="min-width:840px;">
+      <tr><th width="840">
 
       How to setup the ``` Arduino Pro Mini ``` board
             
@@ -86,7 +86,7 @@ Conveyor is a mechanical system used to move goods or materials from one place t
 
 3. ``` Change Processor ``` in Arduino IDE
 
-   <table><tr><td style="min-width:840px;">
+   <table><tr><td width="840">
       
       Click ``` Tools ``` -> ``` Processor ``` -> ``` ATmega328P (5V, 16 MHz) ```
 
@@ -94,7 +94,7 @@ Conveyor is a mechanical system used to move goods or materials from one place t
 
 4. ``` Port Setup ``` in Arduino IDE
 
-   <table><tr><td style="min-width:840px;">
+   <table><tr><td width="840">
       
       Click ``` Port ``` -> Choose according to your device port ``` (you can see in device manager) ```
 
@@ -106,7 +106,7 @@ Conveyor is a mechanical system used to move goods or materials from one place t
 
 7. Some things you need to do when using the ``` Arduino Pro Mini board ``` with ``` PL2303 USB ``` :
 
-   <table><tr><td style="min-width:840px;">
+   <table><tr><td width="840">
 
       • ``` Arduino IDE ``` information: ``` Uploading... ``` -> immediately press the ``` RESET ``` button and release it.
       
@@ -123,7 +123,7 @@ Conveyor is a mechanical system used to move goods or materials from one place t
 
 <strong>Notes:</strong>
 
-   <table><tr><td style="min-width:840px;">
+   <table><tr><td width="840">
 
    • This ``` Arduino Pro Mini ``` is not equipped with a ``` USB port ```, so you need an additional device in the form of a ``` USB to TTL Serial ``` to connect to a laptop or PC. ``` USB to TTL Serial ``` like the ``` PL2303 USB ``` is commonly used as an intermediate medium for uploading programs.
    

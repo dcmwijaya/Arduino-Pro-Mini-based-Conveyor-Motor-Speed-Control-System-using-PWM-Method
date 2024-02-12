@@ -61,35 +61,69 @@ Konveyor adalah sebuah sistem mekanik yang digunakan untuk memindahkan barang at
 <br><br>
 
 ## Pengaturan Arduino IDE
-1. Buka ``` Arduino IDE ``` terlebih dahulu, kemudian buka proyek ini dengan cara klik: ``` File ``` -> ``` Open ``` -> ``` pwm_conveyor.ino ```.<br><br>
+1. Buka ``` Arduino IDE ``` terlebih dahulu, kemudian buka proyek ini dengan cara klik ``` File ``` -> ``` Open ``` : 
+
+   <table><tr><td width="810">
    
-2. ``` Pengaturan Board ``` di Arduino IDE<br><br>
-   • Cara: klik ``` Tools ``` -> ``` Board ``` -> ``` Arduino AVR Boards ``` -> ``` Arduino Pro or Pro Mini ```.<br><br>
+      ``` pwm_conveyor.ino ```
 
-3. ``` Ubah Processor ``` di Arduino IDE.<br><br>
-   • Cara: klik ``` Tools ``` -> ``` Processor ``` -> ``` ATmega328P (5V, 16 MHz) ```.<br><br>
+   </td></tr></table><br>
+   
+2. ``` Pengaturan Board ``` di Arduino IDE
 
-4. ``` Pengaturan Port ``` di Arduino IDE<br><br>
-   • Cara: klik ``` Port ``` -> Pilih sesuai dengan port perangkat Anda ``` (Anda dapat melihatnya di Device Manager) ```.<br><br>
+   <table>
+      <tr><th width="810">
+
+      How to setup the ``` Arduino Pro Mini ``` board
+            
+      </th></tr>
+      <tr><td>
+   
+      Klik ``` Tools ``` -> ``` Board ``` -> ``` Arduino AVR Boards ``` -> ``` Arduino Pro or Pro Mini ```
+
+      </td></tr>
+   </table><br>
+
+3. ``` Ubah Processor ``` di Arduino IDE
+
+   <table><tr><td width="810">
+   
+      Klik ``` Tools ``` -> ``` Processor ``` -> ``` ATmega328P (5V, 16 MHz) ```
+
+   </td></tr></table><br>
+
+4. ``` Pengaturan Port ``` di Arduino IDE
+
+   <table><tr><td width="810">
+   
+      Klik ``` Port ``` -> Pilih sesuai dengan port perangkat Anda ``` (Anda dapat melihatnya di Device Manager) ```
+
+   </td></tr></table><br>
 
 5. Sebelum mengunggah program, silakan klik: ``` Verify ```.<br><br>
 
 6. Jika tidak ada kesalahan dalam kode program, silakan klik: ``` Upload ```.<br><br>
 
-7. Beberapa hal yang perlu anda lakukan saat menggunakan ``` board Arduino Pro Mini ```:
+7. Beberapa hal yang perlu anda lakukan saat menggunakan ``` board Arduino Pro Mini ``` dengan ``` USB PL2303 ``` :
 
-    • Informasi ``` Arduino IDE ```: ``` Uploading... ``` -> segera tekan tombol ``` RESET ``` dan lepaskan.
+   <table><tr><td width="810">
 
-    • Tunggu sampai muncul pesan: ``` Done Uploading ``` -> ``` Program langsung dioperasikan ```.<br><br>
+      • Informasi ``` Arduino IDE ```: ``` Uploading... ``` -> segera tekan tombol ``` RESET ``` dan lepaskan.
+      
+      • Tunggu sampai muncul pesan: ``` Done Uploading ``` -> ``` Program langsung dioperasikan ```.
+
+   </td></tr></table><br>
 
 8. Jika saat unggah program masih terdapat masalah, maka coba periksa pada bagian ``` driver ``` / ``` port ``` / ``` yang lainnya ```.
 
 <br><br>
 
 ## Pengaturan Alat Pemrogram: PL2303
-<img src="https://github.com/devancakra/Arduino-Pro-Mini-based-Conveyor-Motor-Speed-Control-System-using-PWM-Method/assets/54527592/cb033083-004b-4ee4-afb1-3dbc1590fc3f"><br><br>
+<img width="840" src="https://github.com/devancakra/Arduino-Pro-Mini-based-Conveyor-Motor-Speed-Control-System-using-PWM-Method/assets/54527592/cb033083-004b-4ee4-afb1-3dbc1590fc3f"><br><br>
 
 <strong>Catatan :</strong>
+
+   <table><tr><td width="840">
 
    • ``` Arduino Pro Mini ``` ini tidak dilengkapi dengan ``` port USB ```, sehingga anda membutuhkan perangkat tambahan berupa ``` USB to TTL Serial ``` untuk dapat terhubung ke laptop ataupun PC. ``` USB to TTL Serial ``` seperti ``` USB PL2303 ``` ini biasa digunakan untuk media perantara dalam pengunggahan suatu program.
    
@@ -97,7 +131,7 @@ Konveyor adalah sebuah sistem mekanik yang digunakan untuk memindahkan barang at
    
    • Untuk mengunggah program, selain menggunakan ``` USB PL2303 ```, anda juga dapat menggunakan alat pemrogram lainnya seperti: ``` FTDI FT232RL ```. Berdasarkan pengalaman, saya akui bahwa menggunakan ``` FTDI FT232RL ``` jauh lebih baik daripada ``` USB PL2303 ``` karena proses upload dapat dilakukan secara otomatis tanpa harus menekan tombol ``` RESET ```.
 
-<br><br>
+   </td></tr></table><br><br>
 
 ## Memulai
 1. Unduh dan ekstrak repositori ini.<br><br>

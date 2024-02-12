@@ -81,7 +81,7 @@ Konveyor adalah sebuah sistem mekanik yang digunakan untuk memindahkan barang at
    <table>
       <tr><th width="810">
 
-      How to setup the ``` Arduino Pro Mini ``` board
+      Cara mengatur board ``` Arduino Pro Mini ```
             
       </th></tr>
       <tr><td>
@@ -103,7 +103,7 @@ Konveyor adalah sebuah sistem mekanik yang digunakan untuk memindahkan barang at
 
    <table><tr><td width="810">
    
-      Klik ``` Port ``` -> Pilih sesuai dengan port perangkat Anda ``` (Anda dapat melihatnya di Device Manager) ```
+      Klik ``` Port ``` -> Pilih sesuai dengan port perangkat anda ``` (anda dapat melihatnya di Device Manager) ```
 
    </td></tr></table><br>
 
@@ -121,7 +121,7 @@ Konveyor adalah sebuah sistem mekanik yang digunakan untuk memindahkan barang at
 
    </td></tr></table><br>
 
-8. Jika saat unggah program masih terdapat masalah, maka coba periksa pada bagian ``` driver ``` / ``` port ``` / ``` yang lainnya ```.
+8. Jika masih ada masalah saat unggah program, maka coba periksa pada bagian ``` driver ``` / ``` port ``` / ``` yang lainnya ```.
 
 <br><br>
 

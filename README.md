@@ -5,7 +5,7 @@
 
 # Arduino-Pro-Mini-based-Conveyor-Motor-Speed-Control-System-using-PWM-Method
 <strong>Solo Project: Conveyor Motor Speed Control System using PWM Method</strong><br><br>
-Conveyor is a mechanical system used to move goods or materials from one place to another which is done continuously. To set how fast the conveyor machine can move, you can use a potentiometer. To change the direction of movement of the conveyor machine as well as stop it, you can use a push button.
+A conveyor is a mechanical system used to move goods or materials from one place to another that is carried out continuously. The purpose of this project is to provide education to the wider community on how to make a simple mini conveyor. This project has been implemented and takes approximately 1 week. To adjust how fast the conveyor machine can move, you can use a potentiometer. To change the direction of movement of the conveyor machine as well as stop it, you can use a push button. The benefit of making this project is none other than to add insight. The results show that this system can function properly.
 
 <br><br>
 

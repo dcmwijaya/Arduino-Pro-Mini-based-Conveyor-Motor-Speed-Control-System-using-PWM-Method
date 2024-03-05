@@ -61,7 +61,7 @@ Conveyor is a mechanical system used to move goods or materials from one place t
 <th width="840">Wiring</th>
 </tr>
 <tr>
-<td><img src="" alt="Wiring"></td>
+<td><img src="https://github.com/devancakra/Arduino-Pro-Mini-based-Conveyor-Motor-Speed-Control-System-using-PWM-Method/assets/54527592/ad9bb821-410c-43a4-babf-3d6f6bd9d68b" alt="Wiring"></td>
 </tr>
 </table>
 

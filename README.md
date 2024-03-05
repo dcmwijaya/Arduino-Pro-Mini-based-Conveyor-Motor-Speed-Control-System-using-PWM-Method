@@ -52,8 +52,8 @@ Conveyor is a mechanical system used to move goods or materials from one place t
 <th width="420">Pictorial Diagram</th>
 </tr>
 <tr>
-<td><img src="https://github.com/devancakra/Arduino-Pro-Mini-based-Conveyor-Motor-Speed-Control-System-using-PWM-Method/assets/54527592/2b7222cd-5ae7-4966-aaab-655e46af83bc" alt="Block-Diagram"></td>
-<td><img src="https://github.com/devancakra/Arduino-Pro-Mini-based-Conveyor-Motor-Speed-Control-System-using-PWM-Method/assets/54527592/d77f0693-7a8c-4276-a612-3ff161a304b7" alt="Pictorial-Diagram"></td>
+<td><img src="https://github.com/devancakra/Arduino-Pro-Mini-based-Conveyor-Motor-Speed-Control-System-using-PWM-Method/assets/54527592/70f96299-f34b-4791-a694-4b70d3ce8c13" alt="Block-Diagram"></td>
+<td><img src="" alt="Pictorial-Diagram"></td>
 </tr>
 </table>
 <table>
@@ -61,7 +61,7 @@ Conveyor is a mechanical system used to move goods or materials from one place t
 <th width="840">Wiring</th>
 </tr>
 <tr>
-<td><img src="https://github.com/devancakra/Arduino-Pro-Mini-based-Conveyor-Motor-Speed-Control-System-using-PWM-Method/assets/54527592/6ebe5afa-e0d9-42d1-a6db-455a67975657" alt="Wiring"></td>
+<td><img src="" alt="Wiring"></td>
 </tr>
 </table>
 

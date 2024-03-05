@@ -53,7 +53,7 @@ Konveyor adalah sebuah sistem mekanik yang digunakan untuk memindahkan barang at
 </tr>
 <tr>
 <td><img src="https://github.com/devancakra/Arduino-Pro-Mini-based-Conveyor-Motor-Speed-Control-System-using-PWM-Method/assets/54527592/70f96299-f34b-4791-a694-4b70d3ce8c13" alt="Block-Diagram"></td>
-<td><img src="" alt="Pictorial-Diagram"></td>
+<td><img src="https://github.com/devancakra/Arduino-Pro-Mini-based-Conveyor-Motor-Speed-Control-System-using-PWM-Method/assets/54527592/756f8fe3-f4f7-4a95-b416-0db4d1ba7c4d" alt="Pictorial-Diagram"></td>
 </tr>
 </table>
 <table>

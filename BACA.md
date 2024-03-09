@@ -158,6 +158,11 @@ Konveyor adalah sebuah sistem mekanik yang digunakan untuk memindahkan barang at
 
 <br><br>
 
+## Apresiasi
+Jika anda merasa karya ini bermanfaat, dukunglah karya ini sebagai bentuk apresiasi kepada penulis dengan cara mengeklik tombol ``` ⭐Bintang ```.
+
+<br><br>
+
 ## LISENSI
 LISENSI MIT - Hak Cipta © 2024 - Devan C. M. Wijaya, S.Kom
 

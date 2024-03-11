@@ -125,7 +125,7 @@ Conveyor is a mechanical system used to move goods or materials from one place t
 
 <br><br>
 
-## Programmer Tools Setup: PL2303 USB
+## PL2303 USB Setup
 <img width="840" src="https://github.com/devancakra/Arduino-Pro-Mini-based-Conveyor-Motor-Speed-Control-System-using-PWM-Method/assets/54527592/cb033083-004b-4ee4-afb1-3dbc1590fc3f"><br><br>
 
 <strong>Notes:</strong>

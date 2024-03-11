@@ -14,7 +14,7 @@ Konveyor adalah sebuah sistem mekanik yang digunakan untuk memindahkan barang at
 | --- | --- |
 | Papan Pengembangan | Arduino Pro Mini |
 | Editor Kode | Arduino IDE |
-| Alat Pemrogram | PL2303 |
+| Alat Pemrogram | USB PL2303 |
 | Driver | USB-Serial PL2303 |
 | Bahasa Pemrograman | C/C++ |
 | Aktuator | Gear Motor / Motor DC (x1) |
@@ -136,7 +136,7 @@ Konveyor adalah sebuah sistem mekanik yang digunakan untuk memindahkan barang at
    
    • Pemasangan kabel antara ``` USB PL2303 ``` dengan board ``` Arduino Pro Mini ``` dapat anda lihat selengkapnya pada gambar di atas.
    
-   • Untuk mengunggah program, selain menggunakan ``` USB PL2303 ```, anda juga dapat menggunakan alat pemrogram lainnya seperti: ``` FTDI FT232RL ```. Berdasarkan pengalaman, saya akui bahwa menggunakan ``` FTDI FT232RL ``` jauh lebih baik daripada ``` USB PL2303 ``` karena proses upload dapat dilakukan secara otomatis tanpa harus menekan tombol ``` RESET ```.
+   • Untuk mengunggah program, selain menggunakan ``` USB PL2303 ```, anda juga dapat menggunakan alat pemrogram lainnya seperti: ``` USB CP2102 ```, ``` USB CH340 ```, atau ``` USB FTDI ```. Berdasarkan pengalaman, saya akui bahwa menggunakan ``` USB FTDI ``` jauh lebih baik daripada ``` USB PL2303 ``` karena proses upload dapat dilakukan secara otomatis tanpa harus menekan tombol ``` RESET ```.
 
    </td></tr></table><br><br>
 

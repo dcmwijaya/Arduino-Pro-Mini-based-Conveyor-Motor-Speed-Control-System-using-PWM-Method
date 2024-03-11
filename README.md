@@ -14,7 +14,7 @@ Conveyor is a mechanical system used to move goods or materials from one place t
 | --- | --- |
 | Development Board | Arduino Pro Mini |
 | Code Editor | Arduino IDE |
-| Programmer Tools | PL2303 |
+| Programmer Tools | PL2303 USB |
 | Driver | USB-Serial PL2303 |
 | Programming Language | C/C++ |
 | Actuators | Gear Motor / Motor DC (x1) |
@@ -125,7 +125,7 @@ Conveyor is a mechanical system used to move goods or materials from one place t
 
 <br><br>
 
-## Programmer Tools Setup: PL2303
+## Programmer Tools Setup: PL2303 USB
 <img width="840" src="https://github.com/devancakra/Arduino-Pro-Mini-based-Conveyor-Motor-Speed-Control-System-using-PWM-Method/assets/54527592/cb033083-004b-4ee4-afb1-3dbc1590fc3f"><br><br>
 
 <strong>Notes:</strong>
@@ -136,7 +136,7 @@ Conveyor is a mechanical system used to move goods or materials from one place t
    
    • You can see the wiring between the ``` PL2303 USB ``` and the ``` Arduino Pro Mini ``` board in the picture above.
 
-   • To upload the program, besides using the ``` PL2303 USB ```, you can also use other programming tools such as: ``` FTDI FT232RL ```. Based on experience, I admit that using the ``` FTDI FT232RL ``` is much better than the ``` PL2303 USB ``` because the upload process can be done automatically without the need to press the ``` RESET ``` button.
+   • To upload the program, besides using the ``` PL2303 USB ```, you can also use other programming tools such as: ``` FTDI USB ```. Based on experience, I admit that using the ``` FTDI USB ``` is much better than the ``` PL2303 USB ``` because the upload process can be done automatically without the need to press the ``` RESET ``` button.
 
    </td></tr></table><br><br>
 

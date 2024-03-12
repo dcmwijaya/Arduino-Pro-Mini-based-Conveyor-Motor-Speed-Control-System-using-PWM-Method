@@ -136,8 +136,8 @@ Conveyor is a mechanical system used to move goods or materials from one place t
    
    • You can see the wiring between the ``` PL2303 USB ``` and the ``` Arduino Pro Mini ``` board in the picture above.
 
-   • To upload the program, besides using the ``` PL2303 USB ```, you can also use other programming tools such as: ``` CP2102 USB ```, ``` CH340 USB ```, or ``` FTDI USB ```. Based on experience, I admit that using the ``` FTDI USB ``` is much better than the ``` PL2303 USB ``` because the upload process can be done automatically without the need to press the ``` RESET ``` button.
-
+   • To upload a program, in addition to using the ``` PL2303 USB ```, you can also use other programming tools such as: ``` CP2102 USB ```, ``` CH340 USB ```, or with ``` FTDI USB ```. Based on my experience, I admit that using ``` FTDI USB ``` or ``` CP2102 USB ``` is much better than ``` PL2303 USB ``` or ``` CH340 USB ``` because their performance is more stable.
+   
    </td></tr></table><br><br>
 
 ## Get Started

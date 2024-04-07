@@ -15,7 +15,7 @@ Conveyor is a mechanical system used to move goods or materials from one place t
 | Development Board | Arduino Pro Mini |
 | Code Editor | Arduino IDE |
 | Programmer Tools | PL2303 USB |
-| Driver | USB-Serial PL2303 |
+| Driver | PL2303 USB Driver |
 | Programming Language | C/C++ |
 | Actuators | Gear Motor / Motor DC (x1) |
 | Other Components | • Jumper cable (1 set)<br>• Adaptor DC 12V 2A (x1)<br>• Motor driver L298N (x1)<br>• Breadboard (x1)<br>• Potentiometer (x1)<br>• Push button 12 x 12 mm (x2)<br>• Wood stickers (1 set)<br>• Wood planks (x2) |
@@ -28,17 +28,17 @@ Conveyor is a mechanical system used to move goods or materials from one place t
    <table><tr><td width="810">
 
    ```
-   https://www.arduino.cc/en/software
+   https://bit.ly/ArduinoIDE_Installer
    ```
 
    </td></tr></table><br>
 
-2. USB-Serial PL2303 
+2. PL2303 USB Driver
 
    <table><tr><td width="810">
    
    ```
-   https://bit.ly/PL2303_Driver
+   https://bit.ly/PL2303_USB_Driver
    ```
 
    </td></tr></table>
